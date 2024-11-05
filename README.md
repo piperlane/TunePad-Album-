@@ -53,7 +53,7 @@ The album is currently complete.
 Across my prototype there is definatley room for improvement. As this was my first time creating code, more advanced functions, longer streams of code and layering of instruments could have be utilised. 
 
 # Acknowledgements 
-The tutorials provided on the TunePad website were incredibly useful for generating ideas and helping understand how the platform works. Additionally the book,'Introduction to digital music with python programming' by Michalel Horn has been extremely benefical when understanding the theory and meaning behind code. 
+The tutorials provided on the TunePad website were incredibly useful for generating ideas and helping understand how the platform works. Additionally the book, 'Introduction to digital music with python programming' by Michalel Horn has been extremely benefical when understanding the theory and meaning behind code. 
 
 # Contact 
 Create by Piper Lane. Contact me @piper.lane@student.uts.edu.au 
