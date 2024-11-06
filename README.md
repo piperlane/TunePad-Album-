@@ -1,4 +1,4 @@
-# TunePad-Album-
+# TunePad-Album
 For my A2 project prototype, i created an album of four different songs on TunePad. I sought inspiration from the classic sounds of Chicargo house music in the 1970s. 
 
 # Table of Contents
@@ -37,15 +37,19 @@ Across the four different songs i composed, a variety of code functions were use
 Prior to undertaking this project, i completed a range of tutorials, provided on the TunePad website to assit me in understanding the structure and functions of the platform. TunePad is a free online platform which is accessible to anyone with an internet connection. 
 
 # Usage 
-A range of different code functions can be used in TunePad, which all produce different outcomes. . Some of which include: 
-- playNote(28, beats = 2, velocity = 80, sustain = 2)
-- for i in range(4): 
-    playNote(4, beats = 0.25/2)
-- with pan(value = [-1.0, 1.0], beats = 3):
-    playNote(36, beats = 3)
-- with lowpass(frequency = [200, 800, 200, 800, 200, 800], beats=1):
-    playNote(47, beats=3)
-  
+The following attachments are links to the four songs i produced on TunePad:
+[
+](https://tunepad.com/project/89154)
+[
+](https://tunepad.com/project/89858)
+
+[
+](https://tunepad.com/project/90375)
+
+[
+](https://tunepad.com/project/90379)
+
+
 # Project Status 
 The album is currently complete. 
 
