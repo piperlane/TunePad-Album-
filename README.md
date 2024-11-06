@@ -40,14 +40,12 @@ Prior to undertaking this project, i completed a range of tutorials, provided on
 The following attachments are links to the four songs i produced on TunePad:
 
 (https://tunepad.com/project/89154)
-[
-](https://tunepad.com/project/89858)
 
-[
-](https://tunepad.com/project/90375)
+(https://tunepad.com/project/89858)
 
-[
-](https://tunepad.com/project/90379)
+(https://tunepad.com/project/90375)
+
+(https://tunepad.com/project/90379)
 
 
 # Project Status 
